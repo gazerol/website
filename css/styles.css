@@ -87,7 +87,8 @@ a:hover {
 }
 
 .intro {
-  width: 30%;
+  font-size: 1rem;
+  width: 40%;
   margin: auto;
 }
 
@@ -97,7 +98,8 @@ a:hover {
 }
 
 .contact-me {
-  margin-top: 8%;
+  width: 50%;
+  margin: auto;
 }
 
 .copyright {
